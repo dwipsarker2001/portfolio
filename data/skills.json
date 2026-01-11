@@ -1,0 +1,143 @@
+[
+  {
+    "name": "Html",
+    "icon": "html.png"
+  },
+  {
+    "name": "CSS",
+    "icon": "css.png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "bootstrap.png"
+  },
+  {
+    "name": "Tailwind",
+    "icon": "tailwind.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "javascript.png"
+  },
+  {
+    "name": "TypeScript",
+    "icon": "typescript.png"
+  },
+  {
+    "name": "React.js",
+    "icon": "react.png"
+  },
+  {
+    "name": "Next.js",
+    "icon": "next.png"
+  },
+  {
+    "name": "Redux",
+    "icon": "redux.png"
+  },
+  {
+    "name": "Axios",
+    "icon": "axios.png"
+  },
+
+  {
+    "name": "React Router Dom",
+    "icon": "react-router-dom.svg"
+  },
+  {
+    "name": "React Hook Form",
+    "icon": "react-hook-form.png"
+  },
+  {
+    "name": "Shadcn",
+    "icon": "shadcn.png"
+  },
+  {
+    "name": "Material-UI",
+    "icon": "material-ui.png"
+  },
+  {
+    "name": "Daisy-UI",
+    "icon": "daisy-ui.svg"
+  },
+  {
+    "name": "Figma",
+    "icon": "figma.png"
+  },
+  {
+    "name": "Photoshop",
+    "icon": "photoshop.png"
+  },
+  {
+    "name": "Node.js",
+    "icon": "node-js.png"
+  },
+  {
+    "name": "Express",
+    "icon": "express-js.png"
+  },
+  {
+    "name": "Socket.io",
+    "icon": "socket-io.svg"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "mongo-db.png"
+  },
+  {
+    "name": "Supabase",
+    "icon": "supabase.png"
+  },
+  {
+    "name": "Sequelize",
+    "icon": "sequelize.svg"
+  },
+  {
+    "name": "Jest",
+    "icon": "jest.png"
+  },
+  {
+    "name": "JWT",
+    "icon": "jwt.png"
+  },
+  {
+    "name": "Php",
+    "icon": "php.png"
+  },
+  {
+    "name": "Laravel",
+    "icon": "laravel.png"
+  },
+  {
+    "name": "MySQL",
+    "icon": "mysql.png"
+  },
+  {
+    "name": "Postman",
+    "icon": "postman.png"
+  },
+  {
+    "name": "Dart",
+    "icon": "dart.png"
+  },
+  {
+    "name": "Flutter",
+    "icon": "flutter.png"
+  },
+  {
+    "name": "Docusaurus",
+    "icon": "docusaurus.svg"
+  },
+  {
+    "name": "cPanel",
+    "icon": "cpanel.webp"
+  },
+  {
+    "name": "Docker",
+    "icon": "docker.png"
+  },
+  {
+    "name": "Vercel",
+    "icon": "vercel.svg"
+  }
+]

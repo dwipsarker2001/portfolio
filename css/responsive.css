@@ -1,0 +1,96 @@
+@media only screen and (max-width: 600px) {
+  /* ------------------------------------*/
+  /*          Global Style Sheet         */
+  /* ------------------------------------*/
+  body {
+    overflow: auto;
+  }
+
+  .wrapper {
+    padding: 0 2rem;
+    height: auto;
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .cursor {
+    display: none;
+  }
+
+  .left {
+    padding: 0;
+    padding-top: 2rem;
+    gap: 2rem;
+  }
+
+  .right {
+    padding-bottom: 2rem;
+  }
+
+  /* ------------------------------------*/
+  /*          Navbar Style               */
+  /* ------------------------------------*/
+  .nav {
+    display: none;
+  }
+
+  /* ------------------------------------*/
+  /*          component card             */
+  /* ------------------------------------*/
+  .experience_card,
+  .project_card {
+    display: block;
+    padding: 0;
+  }
+
+  .date {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+
+  .experience_card:not(:last-child),
+  .project_card:not(:last-child) {
+    margin-bottom: 5rem;
+  }
+
+  /* ------------------------------------*/
+  /*          Section link               */
+  /* ------------------------------------*/
+  .section_link {
+    padding-left: 0;
+  }
+
+  /* ------------------------------------*/
+  /*          Project Card               */
+  /* ------------------------------------*/
+  .project_img {
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .project_img.app {
+    width: 10rem;
+  }
+  /* ------------------------------------*/
+  /*          Goal Details               */
+  /* ------------------------------------*/
+  #goal {
+    padding-left: 0;
+  }
+
+  .goal_line {
+    left: 1.5rem;
+  }
+
+  .goal_details {
+    display: grid;
+    gap: 1.5rem;
+    grid-template-columns: 1fr 10fr;
+  }
+
+  /* ------------------------------------*/
+  /*          Footer Style               */
+  /* ------------------------------------*/
+  footer {
+    padding: 0;
+    justify-content: center;
+  }
+}
